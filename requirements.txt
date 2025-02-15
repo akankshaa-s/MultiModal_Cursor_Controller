@@ -1,0 +1,10 @@
+requirements
+
+opencv-python
+mediapipe
+pyautogui
+numpy
+Flask, jsonify, render_template, CORS
+math
+os
+time
