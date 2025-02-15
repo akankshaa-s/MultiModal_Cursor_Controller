@@ -4,7 +4,7 @@ Multimodal Maestro offers a new method of human computer interaction by fusing t
 # Multimodal Maestro
 
 ## Introduction
-Multimodal Maestro is an advanced eye-gaze and hand gesture control system that eliminates the need for physical input devices. The project integrates computer vision and deep learning techniques to provide a smooth, accessible, and hands-free human-computer interaction experience.
+Multimodal Maestro is an advanced eye-gaze and hand gesture control system that eliminates the need for physical input devices. The project integrates computer vision and deep learning techniques to provide a smooth, accessible, and traditional input device-free human-computer interaction experience.
 
 ## Objectives
 
