@@ -67,7 +67,7 @@ A combined approach using both gaze and hand gesture recognition:
 Pull requests are welcome. For significant changes, open an issue first to discuss what you would like to change.
 
 ## License
-This project is licensed under the MIT License. See `LICENSE` for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Team Members: Akanksha S, Ananya R, Dhanya M Bhatt, Nireeksha B.
