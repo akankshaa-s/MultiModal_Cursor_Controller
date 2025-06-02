@@ -70,5 +70,5 @@ Pull requests are welcome. For significant changes, open an issue first to discu
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- Team Members: Akanksha S, Ananya R, Dhanya M Bhatt, Nireeksha B.
+- Team Members: Akanksha S, Sandeep Telkar R.
 - Special thanks to open-source contributors and research papers that inspired this project.
